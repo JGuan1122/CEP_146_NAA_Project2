@@ -1,5 +1,5 @@
-# CEP_146_NAA_Project1
-Repository used to store CEP 146 Project 1
+# CEP_146_NAA_Project2
+Repository used to store CEP 146 Project 2
 
 |Name|StudentID|GithubID|Email|
 |:----:|:---------:|:--------:|:-----:|
