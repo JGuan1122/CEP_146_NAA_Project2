@@ -1,5 +1,9 @@
+
+
 # CEP_146_NAA_Project2
 Repository used to store CEP 146 Project 2
+
+## TOPIC: AI and its consequences on the job market
 
 |Name|StudentID|GithubID|Email|
 |:----:|:---------:|:--------:|:-----:|
