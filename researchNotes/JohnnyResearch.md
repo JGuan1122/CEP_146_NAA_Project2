@@ -2,7 +2,8 @@ The massive inflation of AI related economies have caused an AI Bubble, this res
 
 
 
-\## The AI bubble:
+
+## The AI bubble:
 
 -Sudden massive investment in AI, whether generative or agentic
 
